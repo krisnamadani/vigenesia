@@ -1,0 +1,10 @@
+Laravel 10
+
+source code aplikasi vigenesia ini dibuat menggunakan Laravel 10.
+
+kebutuhan sistem:
+- php 8.2
+
+tools yang diperlukan:
+- xampp / laragon / valet
+- composer
